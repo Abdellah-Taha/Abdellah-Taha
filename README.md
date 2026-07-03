@@ -1,34 +1,44 @@
-# Hi there, I'm Abdellah-Taha Zirari 👋
+# Hi, I'm Abdellah-Taha Zirari 👋
 
-I'm a student in the 42 curriculum at 1337 (UM6P Rabat) and from the Faculté des Sciences Rabat holding a Bachelor's degree in Computer Science (SMI), passionate about software development and building efficient tools. 
+Computer Science student (Bachelor's, SMI — Faculté des Sciences Rabat) currently in the 42 curriculum at 1337 (UM6P Rabat). I like building things that sit at the intersection of algorithms and systems: graph routing, concurrency, and small-model inference.
 
 ## 👨‍💻 About Me
 
-*   💻 Currently diving deep into low-level systems programming, memory management, and concurrency in **C**.
-*   🐍 Exploring small language models, constrained decoding, and real-time visualization in **Python**.
-*   🐧 Developing primarily in a **WSL** (Windows Subsystem for Linux) environment.
+- 💻 Deep in low-level systems programming, memory management, and concurrency in **C**
+- 🐍 Exploring graph algorithms, constrained decoding, and real-time visualization in **Python**
+- 🧪 Big on static analysis — strict mypy, flake8-clean code, and readable READMEs
+- 🐧 Developing in **WSL** (Windows Subsystem for Linux)
 
 ## 🚀 Featured Projects
 
-### [Codexion](https://github.com/Abdellah-Taha/codexion)
-A multi-threaded simulation project written in C. This project focuses heavily on thread synchronization, logging, and handling concurrency issues using mutexes and condition variables. 
+### [Fly-in](https://github.com/Abdellah-Taha/Fly-in) — Drone Fleet Routing Simulator
+Multi-drone routing simulation over a weighted graph of hubs (normal / restricted / priority / blocked zones), minimizing total turns to destination.
+- Two-phase offline scheduling: path planning via **penalized repeated Dijkstra**, then drone assignment via **weighted round-robin** on path throughput
+- Staggered departures to avoid hub overcrowding, with live Dijkstra fallback on unexpected blocks
+- Real-time **Arcade**-based renderer with coordinate normalization and frame-interpolated drone movement
+- Fully typed (mypy strict) and flake8-clean across 4 modules
 
-### [call_me_maybe](https://github.com/Abdellah-Taha/call_me_maybe)
-A Python-based project built around small language models. It utilizes constrained decoding, Pydantic validation for JSON schemas, and logit masking to execute precise function calling.
+### [call_me_maybe](https://github.com/Abdellah-Taha/call_me_maybe) — Function Calling with Small LLMs
+Translates natural-language prompts into schema-compliant JSON function calls using **Qwen3-0.6B**.
+- Constrained decoding via prefix-tree function-name selection
+- Type-constrained parameter generation + JSON repair logic
+- Pydantic-validated output schemas
 
-### [Fly-in](https://github.com/Abdellah-Taha/Fly-in)
-A real-time graph visualization tool built with Python and the Arcade library. It simulates drone movement through hubs by implementing Dijkstra's algorithm and handling spatial coordinate normalization.
+### [Codexion](https://github.com/Abdellah-Taha/codexion) — Multi-threaded C Simulation
+Concurrency-focused simulation in C, handling synchronization and logging across multiple threads using mutexes and condition variables.
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
-*   **Languages:** C, Python
-*   **Environment & Tools:** Git, WSL, GitHub
-*   **Libraries:** Pydantic, Arcade
+**Languages:** C, Python
+**Static Analysis:** mypy (strict), flake8
+**Libraries:** Pydantic, Arcade
+**Environment:** Git, WSL, GitHub
 
 ## 📫 Get in Touch
 
-*   **Email:** [abdellahzirari2005@gmail.com]
-*   **LinkedIn:** [https://www.linkedin.com/in/taha-zirari-2a8178238/]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-zirari-2a8178238/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdellahzirari2005@gmail.com)
 
 ---
-⭐️ *From [Abdellah-Taha](https://github.com/Abdellah-Taha)*
+
+⭐️ From [Abdellah-Taha](https://github.com/Abdellah-Taha)
