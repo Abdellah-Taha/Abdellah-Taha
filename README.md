@@ -19,7 +19,7 @@
 - ⚙️ Learning **DevOps**: containerization, CI/CD pipelines, and Linux-based infrastructure
 - 💻 Deep in low-level systems programming, memory management, and concurrency in **C**
 - 🐍 Building graph algorithms, real-time visualization, and typed pipelines in **Python**
-- 🧪 Big on static analysis — strict mypy, flake8-clean code, and readable READMEs
+- 🧪 Big on static analysis — strict mypy, flake8-clean code
 - 🐧 Developing on Linux / WSL
 
 <br/>
