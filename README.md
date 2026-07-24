@@ -3,8 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=200&section=header&text=Abdellah-Taha%20Zirari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20DevOps%20%7C%20Systems%20%26%20Algorithms&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  [<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Computer+Science+Graduate+(SMI+%E2%80%94+Fac.+des+Sciences+Rabat);42+Student+%40+1337+Rabat+(UM6P);Exploring+AI+%2F+ML+Systems;Learning+DevOps+%26+Cloud+Infra;Building+at+the+Intersection+of+Algorithms+%26+Systems" alt="Typing SVG" />](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=Computer+Science+Graduate+(SMI+%E2%80%94+Fac.+des+Sciences+Rabat);42+Student+%40+1337+Rabat+(UM6P);Exploring+AI+%2F+ML+Systems;Learning+DevOps+%26+Cloud+Infra;Building+at+the+Intersection+of+Algorithms+%26+Systems)
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Computer+Science+Graduate+(SMI+%E2%80%94+Fac.+des+Sciences+Rabat);42+Student+%40+1337+Rabat+(UM6P);Exploring+AI+%2F+ML+Systems;Learning+DevOps+%26+Cloud+Infra;Building+at+the+Intersection+of+Algorithms+%26+Systems" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Abdellah-Taha&label=Profile%20Views&color=00C9A7&style=flat" alt="profile views"/>
 
