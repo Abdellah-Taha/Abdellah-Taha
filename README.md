@@ -117,8 +117,6 @@ Currently pointed toward AI infrastructure and DevOps — containerizing project
 
 </div>
 
-> ℹ️ The snake animates your real contribution graph and needs a one-time GitHub Action setup — see `snake.yml` below (drop it in `.github/workflows/` of your **Abdellah-Taha/Abdellah-Taha** profile repo, then it auto-updates daily).
-
 <br/>
 
 ## 📫 Get in Touch
