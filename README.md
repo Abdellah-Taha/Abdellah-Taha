@@ -18,7 +18,7 @@ Currently exploring **RAG systems, small-model inference, constrained decoding, 
 
 | Project                                                                                 | What it demonstrates                                                 |
 | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **[RAG-against-the-machine](https://github.com/Abdellah-Taha/RAG-against-the-machine)** | Retrieval-Augmented Generation pipeline                              |
+| **[RAG-against-the-machine](https://github.com/Abdellah-Taha/RAG)** | Retrieval-Augmented Generation pipeline                              |
 | **[call_me_maybe](https://github.com/Abdellah-Taha/call_me_maybe)**                     | LLM function calling with constrained decoding and schema validation |
 | **[Fly-in](https://github.com/Abdellah-Taha/Fly-in)**                                   | Graph algorithms, multi-agent routing and simulation                 |
 | **[codexion](https://github.com/Abdellah-Taha/codexion)**                               | Multithreading, synchronization and concurrent programming in C      |
